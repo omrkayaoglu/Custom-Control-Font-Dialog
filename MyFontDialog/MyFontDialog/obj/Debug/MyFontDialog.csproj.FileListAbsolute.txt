@@ -1,0 +1,11 @@
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\bin\Debug\MyFontDialog.exe.config
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\bin\Debug\MyFontDialog.exe
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\bin\Debug\MyFontDialog.pdb
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\obj\Debug\MyFontDialog.csprojAssemblyReference.cache
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\obj\Debug\MyFontDialog.Form1.resources
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\obj\Debug\MyFontDialog.MyFontDialog.resources
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\obj\Debug\MyFontDialog.Properties.Resources.resources
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\obj\Debug\MyFontDialog.csproj.GenerateResource.cache
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\obj\Debug\MyFontDialog.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\obj\Debug\MyFontDialog.exe
+C:\Users\Ömer Kayaoğlu\source\repos\MyFontDialog\MyFontDialog\obj\Debug\MyFontDialog.pdb
